@@ -1,4 +1,4 @@
-d,fsn
+d,fsnnsdbms
 
 "🔥 Easy Memory Trick
 git diff
