@@ -1,1 +1,1 @@
-"bad commit"
+"Version 1"
