@@ -1,0 +1,10 @@
+d,fsn
+
+"🔥 Easy Memory Trick
+git diff
+
+= What I changed now?
+
+git diff --staged
+
+= What am I about to commit?"
